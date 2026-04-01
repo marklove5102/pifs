@@ -1,3 +1,6 @@
+Check out https://github.com/philipl/inferencefs/ for the latest in data-free filesystems!
+------------------------------------------------------------------------------------------
+
 πfs: Never worry about data again!
 ==================================
 
